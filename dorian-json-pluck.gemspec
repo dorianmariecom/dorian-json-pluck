@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = "dorian-json-pluck"
-  s.version = "0.0.2"
+  s.version = File.read("VERSION").strip
   s.summary = "plucks values from json by json path"
   s.description = s.summary
   s.authors = ["Dorian Marié"]
