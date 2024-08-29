@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    dorian-json-pluck (1.0.0)
+    dorian-json-pluck (1.1.0)
       dorian-arguments
       json
 
